@@ -1,2 +1,5 @@
 public
 .vscode
+
+publish.bat
+ftpsync.txt

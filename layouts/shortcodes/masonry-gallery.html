@@ -1,0 +1,47 @@
+{{- /* This shortcode create a gallery with images contained in "directory" 
+ Params: 
+  - "directory" : name of directory as a subdir of "static/images/" 
+  - "sort" : "asc" or "desc" if you prefer newer image resp. last or first
+ Note : 
+ This version uses vendobox plugins and additionnal bootstrap / css for gallery */ -}}
+
+{{- $.Scratch.Set "sort" "asc" }}
+{{- with .Get "sort" }}{{ $.Scratch.Set "sort" . }}{{ end }}
+{{- with .Get "directory" }}
+    {{- $folder := . }}
+    {{- $absFolder := . | printf "/static/images/%s" }}
+    {{- if fileExists $absFolder }}
+        {{- $files2 := readDir $absFolder }}
+
+        {{- /* Tentative de filtre, qui ne marche pas */}}
+        {{- /* $files := where $files2 "Name" "in" ".jpg" */}}
+        {{- $files := slice }} {{- /* Création d'un tableau vide que l'on remplit des images uniquement */}}
+        {{- range $files2 }}
+            {{- if in (.Name | lower) "jpg" }}
+                {{- $files = $files | append .Name }}
+            {{- end }}
+        {{- end }}
+        {{- /* $files n'est pas utilisé pour l'instant, mais OK */}}
+
+    <div class="grid">
+        <!-- width of .grid-sizer used for columnWidth -->
+        <div class="grid-sizer"></div>
+        {{- range sort $files2 "Name" ($.Scratch.Get "sort") }}
+            {{- if in (.Name | lower) "jpg" }}
+                {{- $Filename := path.Base .Name }}
+                <div class="grid-item">
+                    {{ with (imageConfig (printf "static/images/%s/thumbs/%s" $folder $Filename)) }}
+                        <a href="{{ printf "images/%s/%s" $folder $Filename | relURL }}" class="venobox" data-gall="gallery">
+                        <img class="img-fluid" src="{{ printf "images/%s/thumbs/%s" $folder $Filename | relURL }}" alt="{{ printf "image %s" $Filename }}" width="{{.Width}}" height="{{.Height}}"></a>
+                    {{ end }}
+                    
+                </div>
+            {{- end }}
+        {{- end }}
+        </div>
+    {{- else }}
+        <p>Pas d'image.</p>
+    {{- end }}
+{{- else }}
+    {{- errorf "missing value for param 'name': %s" .Position }}
+{{- end }}

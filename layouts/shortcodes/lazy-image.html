@@ -1,0 +1,12 @@
+{{- /* This shortcode create img tag with lazy loading 
+ Params: 
+  - "src" : relative path of image in directory "static/images/" 
+*/ -}}
+{{- with .Get "src" }}
+{{- $src := . }}
+    {{ with (imageConfig (printf "static/images/%s" . )) }}
+        <img class="img-fluid" src="{{ printf "images/%s" $src | relURL }}" alt="{{ printf "image %s" $src }}" width="{{.Width}}" height="{{.Height}}" loading="lazy">
+    {{ end }}
+   {{- else }}
+    {{- errorf "missing value for param 'name': %s" .Position }}
+{{- end }}

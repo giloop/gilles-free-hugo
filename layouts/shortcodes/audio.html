@@ -1,0 +1,13 @@
+{{ with .Get "src" }}
+{{ $ext := (path.Ext .) }}
+
+<audio controls>
+{{ if eq ($ext | lower) ".ogg" }}       <source src="{{ . }}" type="audio/ogg">
+{{ else if eq ($ext | lower) ".mp3" }}  <source src="{{ . }}" type="audio/mpeg">
+{{ else if eq ($ext | lower) ".wav" }}  <source src="{{ . }}" type="audio/wav">
+{{ else }}    Your browser does not support the audio element.
+{{ end }}
+</audio>
+{{ else }}
+<p>Provide src param for audio shortcode</p>
+{{ end }}

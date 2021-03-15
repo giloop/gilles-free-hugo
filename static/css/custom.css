@@ -1,0 +1,119 @@
+/* Animation du logo */
+  /* Utilisation de classes de couleur pour animation Javascript */
+  .vert {fill:#a1e20a; transition: 1s;}
+  .rose {fill:#e70000; transition: 1s;}
+  .bleu {fill:#0cf; transition: 1s;}
+  #txt-G-1 {transform-origin: 10% 25%;}
+  #txt-G-2 {transform-origin: 40% 37%;}
+  
+  .t0 {transform: translateX(0) rotate(0);transition: 1s cubic-bezier(0.23, 1, 0.320, 1);}
+  .tG1 {transform: translateX(39.5%) rotate(360deg); transition: 1s;}
+  .tG2 {transform: translateX(-40%) rotate(360deg); transition: 1s;}
+
+
+
+img.first { max-width: 300px;}
+a img { border-radius: 8px; border: 2px solid #fdefe6; }
+a img:hover { border: 2px solid #f60;}
+
+ol { list-style-type:decimal; }
+ul { list-style-type:disc; }
+
+h3.post-head {
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+
+@media (min-width: 990px) {
+    h3.post-head {
+        padding-top: 110px;
+    }
+  }
+  
+.bg-secondary {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-image: linear-gradient(#fff 45%,#fdefe6 0);
+}
+
+
+/*--
+Grille d'images bootstrap
+--*/
+.grid-row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    /* -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+.grid-row *, .grid-column * { margin-bottom: 0px; }
+
+  /* Create four equal columns that sits next to each other */
+  .grid-column {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 8px;
+  
+  }
+  .grid-img-container { 
+    overflow: hidden;
+  }
+  
+  .grid-column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+    border-radius: 4px;
+    -o-object-fit: cover;
+    object-fit: cover;
+  -webkit-transform: scale(1);
+         transform: scale(1);
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  filter: grayscale(0.5);
+  }
+  .grid-column img:hover {
+    -webkit-transform: scale(1.025);
+            transform: scale(1.025);
+            filter: grayscale(0);
+  }
+  
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 720px) {
+    .grid-column {
+      -ms-flex: 50%;
+      flex: 50%;
+      max-width: 50%;
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 480px) {
+    .grid-column {
+      -ms-flex: 100%;
+      flex: 100%;
+      max-width: 100%;
+    }
+  }
+  
+  /* GRille d'images masonry */
+  /* fluid 1 column for small screens */
+.grid { width: 100%;}
+.grid-sizer,
+.grid-item { width: 100%; height:auto; padding:0px 1px;}
+/* fullwidth item */
+.grid-item-full-width { width: 100%; }
+
+@media screen and (min-width: 480px) {
+  .grid-sizer, .grid-item { width: 50%; }
+}
+@media screen and (min-width: 770px) {
+  .grid-sizer, .grid-item { width: 33%; }
+}
+@media screen and (min-width: 990px) {
+  .grid-sizer, .grid-item { width: 25%; }
+}
