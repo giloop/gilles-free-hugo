@@ -1,5 +1,5 @@
 # default config
-baseurl = "http://gilles.gonon.free.fr/test/"
+baseurl = "http://gilles.gonon.free.fr/"
 languageCode = "fr-fr"
 title = "Gilles Gonon - Bienvenue"
 theme = "parsa"
