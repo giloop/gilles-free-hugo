@@ -73,12 +73,12 @@ Grille d'images bootstrap
          transform: scale(1);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  filter: grayscale(0.5);
+  /*filter: grayscale(0.5);*/
   }
   .grid-column img:hover {
     -webkit-transform: scale(1.025);
             transform: scale(1.025);
-            filter: grayscale(0);
+      /* filter: grayscale(0); */
   }
   
   

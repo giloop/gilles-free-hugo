@@ -63,26 +63,46 @@ hasChildren = true
   [[menu.main]]
   parent = "À propos"
   weight = 2
-  name = "Qui suis-je ?"
+  name = "🧐 Qui suis-je ?"
   url = "about"
 
   [[menu.main]]
   parent = "À propos"
   weight = 3
-  name = "CV"
+  name = "🎓 CV"
   url = "cv"
 
   [[menu.main]]
   parent = "À propos"
   weight = 4
-  name = "Publications"
+  name = "🔖 Publications"
   url = "publications"
 
 
 [[menu.main]]
+name = "Sites Pro"
+url = ""
+weight = 3
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Sites Pro"
+  weight = 2
+  name = "🙀 Le Gueulomaton"
+  url = "https://gueulomaton.org"
+
+  [[menu.main]]
+  parent = "Sites Pro"
+  weight = 3
+  name = "🤓 Cours d'informatique"
+  url = "https://giloop-projects.gitlab.io/"
+
+[[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 3
+weight = 4
+
+
 
 # default parameter
 [params]
@@ -94,7 +114,8 @@ home = "about"
 # theme layout ( two layouts are available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "Site de Gilles Gonon, des réflexions, de la poésie, du code, des expérimentations, des photographies, de la musique ... Retrouvez tout mon petit monde intérieur sur ce site."
+images = ["images/gilles-dribble.png", "entete_site6.jpg"]
 # Preloader
 preloader = true
 # search
@@ -106,11 +127,11 @@ bio = "L'art rend les gens meilleurs, le cri aussi."
 # Contact info
 mobile = "+33 6 28 47 23 04"
 email = "gilles.gonon@free.fr"
-address = "5 avenue des Trente"
+address = "5 avenue des Trente, Tinténiac"
 # Contact Form Action
 contact_form_action = "https://formspree.io/f/mleoyabr"
 # copyright
-copyright = "Copyright &copy; 2021 Gilles G. - original theme by [themefisher.com](themefisher.com)"
+copyright = "Fait avec 💗 et [Hugo](https://gohugo.io/) par Gilles G. - 2021 original theme by [themefisher](themefisher.com)"
 
 # Instagram feed
 [params.instafeed]

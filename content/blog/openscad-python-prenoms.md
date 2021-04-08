@@ -10,9 +10,10 @@ tags:
   - "Programmation"
   - "Openscad"
   - "3D printing"
+  - "Maker"
 ---
 
-Note: Updated version & code on [my github page](https://github.com/giloop/3D-printings "github 3D Printing stuffs"). 
+💫 Note: An updated version & code is now available on [my github 3D printings page](https://github.com/giloop/3D-printings "github 3D Printing stuffs").
 
 Cet article fait suite à une demande de ma femme qui me demandait si je pouvais lui imprimer des plaques avec les prénoms des enfants de sa classe. Comme je ne me voyais pas générer une à une les 23 plaques des enfants, je me suis demandé comment automatiser la chose.
 
@@ -62,10 +63,10 @@ Pour résumer, le script python :
 *   crée un fichier STL par prénom (élément d'une liste Python) en appelant Openscad. Les prénoms peuvent être encodés en UTF-8 avec accents,
 *   crée N scripts Openscad qui rassemblent les fichiers STL et les placent en grille, 12 fichiers par script : Assemblage-1.scad, Assemblage-2.scad, ...
 *   génère les fichiers STL des grilles pour impression 3D en appelant Openscad.
-*   
+
 ![Assemblages des fichiers STL pour impressions 3D](http://gilles.gonon.free.fr/wp-content/uploads/Assemblages-1et-2.png) Assemblages des fichiers STL pour impressions 3D
 
 
-Télécharger les [codes des fichiers Python et Openscad](http://gilles.gonon.free.fr/wp-content/uploads/PlaquesPrenoms-codes-openscad-python.zip "Codes python et openscad pour générer les plaques des prénoms") servant à générer l'ensemble.
+🙅 Télécharger les [codes des fichiers Python et Openscad](http://gilles.gonon.free.fr/wp-content/uploads/PlaquesPrenoms-codes-openscad-python.zip "Codes python et openscad pour générer les plaques des prénoms") servant à générer l'ensemble.
 
 ![Un extrait du résultat final imprimé](http://gilles.gonon.free.fr/wp-content/uploads/PlaquesPrenomsLow.jpg)
