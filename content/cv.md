@@ -1,11 +1,11 @@
 ---
-title: "CV"
+title: "CV de Gilles Gonon"
 date: 2021-02-17T14:46:10+06:00
-description: "Qui es-tu Gilles Gonon ?"
+description: "Mais qu'as tu donc fait de ta vie Gilles Gonon ?"
 image: "images/gil-facemesh-1.jpg"
 ---
 
-### Domaines de compétences
+### Domaines d'expertise
 
 #### Traitement du signal
 

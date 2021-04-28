@@ -1,6 +1,6 @@
 ---
 title: "Un panneau citoyen"
-date: 2021-04-08T10:16:57+02:00
+date: 2021-04-10T10:16:57+02:00
 description: "Et si les panneaux municipaux devenait des outils de démocratie et d'information citoyenne ?"
 type: "featured"
 image: "images/featured-post/panneau-tinteniac.jpg"
@@ -35,7 +35,7 @@ Dans ce contexte, la démocratie participative prend un sens un peu amer, où on
 
 Heureusement, **Demain** est là pour nous montrer des endroits où la démocratie existe avec son sens premier : 
 
-- en Inde où un intouchable est devenu maire et réussi localement à mettre en place des principes de Gandhi
+- en Inde où un intouchable est devenu maire et réussi localement à mettre en place des preceptes de Gandhi
 - en Islande où les citoyens ont manifestés jusqu'à la démission de leur gouvernement dont la corruption pour les banques a été avérée lors de la crise de 2008, puis lors des Panama Papers en 2016. Est-il encore possible de manifester ainsi dans le calme en France ?
 - en Belgique, où le G1000 avec David Van Reybruck, part à la recherche d'une meilleure organisation de la démocratie dans le pays, avec l'idée intéressante de la démocratie par tirage au sort, la même à laquelle on a cru lors de la convention citoyenne.
 
@@ -50,16 +50,28 @@ Un panneau situé à un rond point stratégique qui observe toute la journée le
 > Il pourrait alors interpeler élus et habitants, délivrer des messages tantôt drôles, informatifs, poétiques, saugrenus, exaspérés, sensibles, inutiles, créatifs, intimes  et pourquoi pas grossiers 🤭. Tout ce qui fait nos vies dans le fond.  
 > Twitter en A0 et dans la vraie vie.
 
-En tout cas, ça pourrait être un canal publique pour recueillir la parole citoyenne en ça, un acte démocratique.
+En tout cas, ça pourrait être un canal publique pour recueillir la parole citoyenne, et en ça un acte démocratique.
 
-Pour l'instant (avril 2021) et depuis quelques semaines, le malheureux est en panne 🤒. 
+Pour l'instant (avril 2021) et depuis quelques semaines, le malheureux est en panne 🤒.  
+*Edit du 10 avril* : il semble maintenant réparé 🥳.
 
 ## Un panneau virtuel
 
-Pour libérer cette parole citoyenne, je vous propose donc une petite appli web pour saisir votre message et le voir apparaître sur le panneau. 
+Pour libérer cette parole citoyenne, je vous propose donc une petite appli web pour saisir votre message et le voir apparaître sur le panneau. Il s'agit bien d'une simulation qui n'existe que sur vos ordinateurs. 
 
-##### [C'est ICI que ça se passe](http://gilles.gonon.free.fr/p5js/panneau-tinteniac/)
+##### [📣 C'est ICI que ça se passe](http://gilles.gonon.free.fr/p5js/panneau-tinteniac/)
 
-Quelques exemples : 
+Quelques exemples, attention les messages diffusés sur ces images sont non contractuels : 
 
 {{< img-lightbox-gallery "directory"="panneaux-bestof" "sort"="asc" >}}
+
+
+## Épilogue 
+
+*Modif du 10 avril*
+
+Je ne vais plus sur Facebook que sporadiquement et sans intérêt, mais quand un ami m'a parlé d'images de panneaux vues sur Facebook, j'y suis quand même allé pour m'amuser et j'en ai profité pour partager le lien vers l'application pour créer son panneau. Dans les minutes qui ont suivi, j'ai eu un coup de fil du premier adjoint, qui m'a gentillement demandé de retirer le logo de Tinténiac sur le panneau parce que le risque de confusion est grand et qu'on risque d'être dépassé par les messages divulgués ... 
+
+C'est chose faite, car je n'ai pas assez d'intérêt pour la législation et pour savoir si je suis dans mon droit ou non de mettre à disposition un tel outil, et si j'engage ma responsabilité juridique pour les messages générés par les gens. **Si quelqu'un à une réponse à cette question**, je reste preneur. 
+
+Ainsi va la démocratie, et l'expression citoyenne doit bien rester participative et à la discrétion des élus.

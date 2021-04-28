@@ -7,7 +7,29 @@ image: "images/publications.jpg"
 ---
 
 
-[IRISA](#irisa) | [EUROSPEECH 05](#eurospeech-05)
+### 📽️ Vidéos Youtube 
+
+#### Institut Solacroup 2020 
+
+Réalisations de tutorials pour la formation développeur Web / Web Mobile sur la chaîne Youtube de l'[Institut Solacroup](https://www.youtube.com/channel/UCpPL01txrUCFctWDRr9EcEg/videos). Thèmes abordés : 
+
+- Présentation de la JAMSTACK pour générer des sites statiques et exemple de création d'un blog avec Hugo
+- Utilisation et animation des images SVG
+- Migrer son code d'un serveur local vers un hébergeur
+- Test et audit d'une page Web
+- Astuces diverses informatiques
+- Explications pratiques pour la préparation d'un oral, la rédaction du dossier professionnel ou encore l'examen professionnel
+
+#### Bien vivre en Bretagne Romantique 2020
+
+Réalisation de vidéos d'explication sur le fonctionnement du site d'e-commerce pour les producteurs locaux 
+[Chaîne Youtube](https://www.youtube.com/channel/UChD7vhwenct2m9ueJ2t-MeQ). 
+
+### 📝 Publications 
+
+[LMCS 2014](#lmcs-2014)
+
+[EUROSPEECH 05](#eurospeech-05)
 
 [Thèse](#thèse) | [Mémoire de Thèse](#mémoire-de-thèse) | [CORESA 01](#coresa-2001) | [EUROSPEECH 01](#eurospeech-01) | [ICA 2001](#ica-2001) | [GRESTI 2001](#gretsi-2001) | [CFA 2000](#cfa-2000) | [JEP 2000](#jep-2000)
 
@@ -17,15 +39,24 @@ image: "images/publications.jpg"
 
 [Codage audio](#codage-audio) | [ENSEA](#ensea) | [Matrix-Pencil](#matrix-pensil) | [Réseau local CAN](#stage-ensea-1997)
 
-## IRISA
 
-### EUROSPEECH 05
+#### LMCS 2014 
 
-#### Decision Trees with Improved Efficiency for Fast Speaker Verification
+Gilles Gonon, *Mise au point d’un algorithme de palettisation 3D hétérogène en ligne*, Acsystème, 2014. Plus d'information sur le site d'[Acsystème](http://acsysteme.com/fr/palettisation-automatique).
+
+Résumé : 
+Acsystème travaille depuis plusieurs années sur la mise au point d’algorithmes innovants pour répondre à la problématique de palettisation hétérogène en ligne. Nous avons développé une solution modulaire permettant de gérer des cas et des contraintes différentes d’empilage. Cette solution d’empilage a été déclinée dans deux cas de production où les pièces arrivent en ligne pour être palettisées, et où la visibilité sur les pièces à venir n’est que de quelques pièces. 
+
+> **Téléchargement** : [PDF](http://acsysteme.com/uploads/images/files/LMCS%202014/r%C3%A9sum%C3%A9s/LMCS%202014%20-%20Acsyst%C3%A8me%20-%20Gilles%20Gonon.pdf) - [PDF de la présentation](http://acsysteme.com/uploads/images/files/LMCS%202014/conf%C3%A9rences/LMCS%202014%20-%20Conf%C3%A9rence%20-%20Gilles%20Gonon.pdf)
+
+
+#### EUROSPEECH 05
+
+##### Decision Trees with Improved Efficiency for Fast Speaker Verification
 
 Gilles Gonon, Rémi Gribonval, Frédéric Bimbot
 
-#### Résumé
+##### Résumé
 
 Classification and regression trees (CART) are convenient for low complexity speaker recognition on embedded devices. However, former attempts at using trees performed quite poorly compared to state of the art results with Gaussian Mixture Models (GMM). In this article, we introduce some solutions to improve the efficiency of the tree-based approach. First, we propose to use at the tree construction level different types of information from the GMM used in state of the art techniques. Then, we model the score function within each leaf of the tree by a linear score function. Considering a baseline state of the art system with an equal error rate (EER) of 8.6\% on the NIST 2003 evaluation, a previous CART method provides typical EER ranging between 16\% and 18\% while the proposed improvements decrease the EER to 11.5\%, with a computational cost suitable for embedded devices.
 
@@ -45,13 +76,13 @@ month = septembre
 
 [🔼 Retour en haut](#top)
 
-## Thèse
+#### 🎓 Thèse
 
-### Proposition d'un schéma adaptatif dans le plan temps-fréquence basé sur des critères entropiques. Application au codage audio.
+##### Proposition d'un schéma adaptatif dans le plan temps-fréquence basé sur des critères entropiques. Application au codage audio.
 
 Gilles Gonon
 
-### Résumé
+##### Résumé
 
 Les représentations adaptées contribuent à l'étude et au traitement des informations portées par les signaux en permettant une analyse pertinente différente pour chaque signal. Les solutions existantes proposent des critères d'adaptation dans les domaines temporel et fréquentiel mais souffrent d'un manque de souplesse des critères pour une représentation adaptée dans le plan temps-fréquence.
 Ce travail de thèse porte sur l'élaboration d'une représentation utilisant successivement des segmentations temporelle et fréquentielle adaptées au signal plus souple que les solutions existantes. Le schéma proposé est appliqué dans un codeur perceptuel par transformée de type haute fidélité.
@@ -72,15 +103,13 @@ month = june
 
 [🔼 Retour en haut](#top)
 
-## Articles publiés dans le cadre de la Thèse
+#### CORESA 01
 
-### CORESA 01
-
-#### Un schéma de représentation adaptatif en temps et en fréquence pour le codage audio.
+##### Un schéma de représentation adaptatif en temps et en fréquence pour le codage audio.
 
 Gilles Gonon, Silvio Montrésor, Marc Baudry
 
-### Résumé
+#### Résumé
 
 Cet article présente un schéma de codage adaptatif en temps et en fréquence. La segmentation temporelle est effectuée à l'aide du critère entropique local et la segmentation fréquentielle est basée sur une extension de l'algorithme de recherche de la meilleure base à partir de la décomposition en paquets d'ondelettes. L'allocation utilise des critères énergétiques et psychoacoustiques pour pallier aux problèmes de sélectivité fréquentielle des paquets d'ondelettes. Les premiers résultats subjectifs informels sont satisfaisants pour des rapports de compression de l'ordre de 10 à 15.
 
@@ -99,13 +128,13 @@ month = novembre
 
 [🔼 Haut de page](#top)
 
-### EUROSPEECH 01
+#### EUROSPEECH 01
 
-#### Improved entropic gain and adaptive time-frequency segmentation. Application to audio coding
+##### Improved entropic gain and adaptive time-frequency segmentation. Application to audio coding
 
 Gilles Gonon, Silvio Montrésor, Marc Baudry
 
-#### Résumé
+##### Résumé
 
 In the search for adaptive representation of speech signals, the Wavelet Packet Decomposition (WPD) has been proved to be a efficient tool because of its frequency adaptation skills through the best basis search algorithm. The entropic minimization of this algorithm is bounded by two artifacts : the dyadic structure of the decomposition and the lack of temporal segmentation. We propose here a low cost extended tree in the WPD which improves the best basis search by reducing the entropy of the base and which is still compatible with the classical WPD. The decomposition also allows perfect reconstruction. The entropic test is updated to take into account the new basis. The preliminary use of a temporal segmentation, based on the Local Entropic Criterion highly improves the entropic gain of the global analysis. The results are shown on experimental speech signals comparing the gain of our scheme versus a usual WPD.
 
@@ -125,13 +154,13 @@ month = septembre
 
 [🔼 Haut de page](#top)
 
-### ICA 2001
+#### ICA 2001
 
-#### Extended Best Basis Familly Tree and Entropy Diminution, Application to Audio Coding
+##### Extended Best Basis Familly Tree and Entropy Diminution, Application to Audio Coding
 
 Gilles Gonon, Silvio Montrésor, Marc Baudry
 
-#### Résumé
+##### Résumé
 
 The Wavelet Packet Decomposition (WPD) is a efficient tool in audio coding because of its frequency adaptation skills through the best basis search algorithm. The entropic minimization of this algorithm is bounded by the dyadic structure of the decomposition. In order to decrease the entropy of the best basis, a low cost extended tree in the WPD is used. It is still compatible with the classical WPD and insures perfect reconstruction. The entropic test is updated to take into account the new basis. We present an example of the resulting best basis on a simulation signal and evaluate the average entropic gain obtained on various audio signals.
 Une version détaillée est aussi disponible (anglais ou français). 
@@ -150,13 +179,13 @@ month = may
 
 [🔼 Haut de page](#top)
 
-### GRESTI 2001
+#### GRESTI 2001
 
-#### Segmentation multibande adaptée basée sur le Critère Entropique Local pour le codage audio
+##### Segmentation multibande adaptée basée sur le Critère Entropique Local pour le codage audio
 
 Gilles Gonon, Silvio Montrésor, Marc Baudry
 
-#### Résumé
+##### Résumé
 
 Ce travail présente une nouvelle approche pour la segmentation des signaux audios. Le détecteur utilisé est non paramétrique et basé sur le Critère Entropique Local appliqué aux sous-bandes issues d'une analyse multirésolution, la transformée en ondelettes discrète (TOD). L'utilisation de la TOD permet d'augmenter la diversité des ruptures détectées et le taux de bonnes détections. Un post-traitement permettant de réduire le nombre de fausses alarmes est aussi présenté. Les résultats sont appliqués à un signal de simulation multicomposante bruité.
 
@@ -174,13 +203,13 @@ month = sep
 
 [🔼 Haut de page](#top)
 
-### CFA 2000
+#### CFA 2000
 
-#### Construction d'un banc de filtres pseudo-QMF pour la recherche de meilleure base
+##### Construction d'un banc de filtres pseudo-QMF pour la recherche de meilleure base
 
 Gilles Gonon, Silvio Montrésor, Marc Baudry
 
-#### Résumé
+##### Résumé
 
 Dans le cadre du traitement des signaux audio (restauration, codage), il est intéressant de travailler sur des sous-bandes fréquentielles du signal. Dans des travaux précédents ont été proposées des extensions des bases dyadiques utilisées avec l'algorithme de choix de la meilleure base. Cet article présente une méthode simple pour construire le banc de filtres correspondant à ces nouvelles bases. Ces filtres réalisés à partir des filtres QMF permettent de générer le père de deux sous-bandes adjacentes mais provenant de pères différents dans la structure dyadique.
 
@@ -199,13 +228,13 @@ optnote =""
 
 [🔼 Haut de page](#top)
 
-### JEP 2000
+#### JEP 2000
 
-#### Extension de la recherche de meilleure base pour la Décomposition en Paquets d'Ondelettes. Application à l'analyse en sous-bandes de la parole
+##### Extension de la recherche de meilleure base pour la Décomposition en Paquets d'Ondelettes. Application à l'analyse en sous-bandes de la parole
 
 Gilles Gonon, Silvio Montrésor, Marc Baudry
 
-#### Résumé
+##### Résumé
 
 In the audio signal processing area (coding or restauration), subband analysis shows to be an efficient tool. Extensions of the dyadic basis usually used in Best Basis search have been proposed in former work. This article review these extensions and presents an easy way to construct the filter bank associated with such basis. The filters, designed from any usual Quadrature Mirror Filters and preserving their reconstruction properties, allow to generate the father of two adjacent subbands not coming from the same father in the dyadic decomposition and thus to perform the entropic test between these subbands, which is not otherwise possible. We then apply this new Best Basis on a speech signal wavelet packet decomposition.
 
@@ -223,15 +252,15 @@ month = jun
 
 [🔼 Haut de page](#top)
 
-## Fourier Fractionnaire
+### Fourier Fractionnaire
 
-### SPC 2000
+#### SPC 2000
 
-#### Filtering in fractional Fourier domains : Application to the Biot's waves
+##### Filtering in fractional Fourier domains : Application to the Biot's waves
 
 Gilles Gonon, Zine El Abidine Fellah, Claude Depollier
 
-#### Résumé
+##### Résumé
 
 In this paper we present a method to separate  the compressional waves which propagate in a porous medium when it is subject to a mechanical excitation. We start this work  by reviewing  the Biot's theory which describes  the propagation of ultrasonic pulses in a porous elastic medium. This modelling shows that three kinds of waves propagate in such media: two compressional waves and one shear wave, each one with its own velocity. Because of the  dispersive nature of  porous media, the identification of the compressional waves  is often difficult  by a traditionnal filtering while this identification is a compelling need  to extract the  part of the informations about the  elastic parameters,  the porosity and the  permeability of the  medium contained in each  of them. For that we propose a  filtering method using the  fractional Fourier transform as foundation.  The interpretation of this transformation as  a rotation in the time-frequency plane and its relationships  with time-frequency representations allow the filtering of signal in  a single fractional Fourier domain.
 
@@ -249,13 +278,13 @@ month = sep
 
 [🔼 Haut de page](#top)
 
-### GRETSI 1999
+#### GRETSI 1999
 
-#### Estimation des paramètres d'un sinus glissant par Transformée de Fourier Fractionnaire
+##### Estimation des paramètres d'un sinus glissant par Transformée de Fourier Fractionnaire
 
 Gilles Gonon, Claude Depollier
 
-#### Résumé
+##### Résumé
 
 La Transformée de Fourier Fractionnaire (notée {\bf FRT}), introduite par Namias en 1980, permet une analyse des signaux dans des domaines intermédiaires entre les domaines temporel et fréquentiel. Suivant un angle donné du plan temps fréquence, elle décompose le signal sur une base orthogonale de sinus glissants. Elle est donc adaptée à l'analyse de signaux multicomposantes formés de sinus glissants et permet  une estimation robuste au bruit de la pente et de l'offset qui sont les deux paramètres essentiels des sinus glissants.
 
@@ -273,13 +302,13 @@ month = sep
 
 [🔼 Haut de page](#top)
 
-### Rapport DEA Acoustique 1998
+#### Rapport DEA Acoustique 1998
 
-#### La transformée de Fourier Fractionnaire
+##### La transformée de Fourier Fractionnaire
 
 Gilles Gonon, Stage encadré par [Claude Depollier](mailto:Claude.Depollier@univ-lemans.fr)
 
-#### Résumé
+##### Résumé
 
 Ce rapport présente la transformée de Fourier fractionnaire et quelques applications en traitement du signal, comme le filtrage dans le plan temps fréquence ou la détection de chirp linéaire.
 
@@ -287,33 +316,29 @@ Ce rapport présente la transformée de Fourier fractionnaire et quelques applic
 
 [🔼 Haut de page](#top)
 
-## Rapports non publiés
-
 ### Codage audio
 
 #### Rapport biliographique sur le codage audio
 
 Gilles Gonon
 
-#### Résumé
+##### Résumé
 
 Ce rapport biliographique détaillant les différentes étapes de la compression audio,à savoir l'analyse du signal, les phénomènes psychoacoustiques, l'allocation binaire et le codage entropique a été réalisé dans le but de présenter les différentes types de codeurs existants.
-
-### Référence LaTeX
 
 > Téléchargement : [PS (gzip)](http://gil.69.free.fr/pub/These/GGbiblio99.ps.gz) - [PDF](http://gil.69.free.fr/pub/These/GGbiblio99.pdf)
 
 [🔼 Haut de page](#top)
 
-## ENSEA
+### ENSEA
 
-### Matrix-Pencil
+#### Matrix-Pencil
 
-#### Estimation des partiels d'une corde guitare par la méthode de Matrix Pencil
+##### Estimation des partiels d'une corde guitare par la méthode de Matrix Pencil
 
 Gilles Gonon
 
-#### Résumé
+##### Résumé
 
 Mise en place de la méthode paramétrique basée sur l'algorithme de Matrix Pencil pour estimer l'inharmonicité des partiels de guitare due aux faibles vibrations de la table d'harmonie.
 
@@ -321,13 +346,13 @@ Mise en place de la méthode paramétrique basée sur l'algorithme de Matrix Pen
 
 [🔼 Haut de page](#top)
 
-### Stage ENSEA 1997
+#### Stage ENSEA 1997
 
-#### Liaison d'une caméra de type webcam à un réseau CAN
+##### Liaison d'une caméra de type webcam à un réseau CAN
 
 Gilles Gonon
 
-### Résumé
+##### Résumé
 
 Stage réalisé en 1997 au laboratoire DISCA de l'UPV (Université Polytechnique de Valencia).
 
