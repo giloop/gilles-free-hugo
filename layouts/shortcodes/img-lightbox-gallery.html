@@ -17,7 +17,7 @@
         {{- /* $files := where $files2 "Name" "in" ".jpg" */}}
         {{- $files := slice }} {{- /* Création d'un tableau vide que l'on remplit des images uniquement */}}
         {{- range $files2 }}
-            {{- if in (.Name | lower) "jpg" }}
+            {{- if or (in (.Name | lower) "jpg") (in (.Name | lower) "gif") }}
                 {{- $files = $files | append .Name }}
             {{- end }}
         {{- end }}
@@ -30,15 +30,16 @@
         <div class="grid-row text-center nbLines-{{ $nbLines }}">
             {{- $.Scratch.Set "j" 1 }} {{- /* Variable persistente dans la boucle avec Scratchpad */}}
             {{- range sort $files2 "Name" ($.Scratch.Get "sort") }}
-                {{- if in (.Name | lower) "jpg" }}
+                {{- if or (in (.Name | lower) "jpg") (in (.Name | lower) "gif") }}
                     {{- $idx := $.Scratch.Get "j" }}
                     {{- $Filename := path.Base .Name }}
+                    {{- $Thumbname := (replaceRE "(gif|png)$" "jpg" $Filename) }}
                     {{ if modBool (sub $idx 1) $nbLines }}
                         <div class="grid-column">
                     {{- end }}
                     <div class="grid-img-container">
                         <a href="{{ printf "images/%s/%s" $folder $Filename | relURL }}" data-lightbox="lightbox-set">
-                            <img class="img-fluid img-thumbnail" src="{{ printf "images/%s/thumbs/%s" $folder $Filename | relURL }}" alt="{{ printf "%d %s" ($.Scratch.Get "j") $Filename }}">
+                            <img class="img-fluid img-thumbnail" src="{{ printf "images/%s/thumbs/%s" $folder $Thumbname | relURL }}" alt="{{ printf "%d %s" ($.Scratch.Get "j") $Filename }}">
                         </a>
                     </div>
                     {{- /* close grid-column div if :

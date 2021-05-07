@@ -1,44 +1,87 @@
 ---
-title: "Publications"
+title: "📢 Publications & Présentations"
 date: 2021-02-17T14:46:10+06:00
-description: "Qui es-tu Gilles Gonon ?"
-summary: "Qui es-tu Gilles Gonon ?"
+description: "Cette page est une forme de revue de presse des travaux auxquels j'ai contribués. Publications et présentations réalisées par Gilles Gonon."
+summary: "Cette page est une forme de revue de presse des travaux auxquels j'ai contribués. Publications et présentations réalisées par Gilles Gonon."
 image: "images/publications.jpg"
 ---
 
+Cette page est une forme de revue de presse des travaux et projets auxquels j'ai contribué. Vous y trouverez des liens vers des tutos Youtube, des articles en ligne ainsi que les publications et présentations de mes travaux de R&D. Vous retrouverez également mes publications académiques sur [ResearchGate](https://www.researchgate.net/profile/Gilles-Gonon)
 
-### 📽️ Vidéos Youtube 
+- Indépendant : [DEA Photonique 2020](#dea-photonique-dangers-2020) | [Vidéos youtube](#-vidéos-youtube) | [Makeme 2019](#portrait-de-makers-par-makeme) |
+- Acsystème : [Matlab Conférence 2018](#matlab-conference-2018) | [ENSAI 2016](#ensai-2016) | [LMCS 2014](#lmcs-2014)
+- IRISA : [Speech Communication 2009](#speech-communication-2009) | [Interstice.info](#interstice-info-2007) | [EUROSPEECH 05](#eurospeech-05) 
+- Thèse : [Mémoire de Thèse](#-thèse) | [CORESA 01](#coresa-01) | [EUROSPEECH 01](#eurospeech-01) | [ICA 2001](#ica-2001) | [GRESTI 2001](#gretsi-2001) | [CFA 2000](#cfa-2000) | [JEP 2000](#jep-2000) | [Codage audio](#codage-audio)
+- DEA : [Fourier Fractionnaire](#fourier-fractionnaire) | [SPC 2000](#spc-2000) | [GRETSI 99](#gretsi-1999) | [Rapport DEA](#rapport-dea-acoustique-1998)
+- ENSEA : [Matrix-Pencil](#matrix-pencil) | [Réseau local CAN](#stage-ensea-1997)
+
+#### DEA Photonique d'Angers 2020
+
+Présentation et discussion réalisée pour les étudiants de DEA photonique à Angers. Ils devaient réaliser un projet de photobooth à base de transfert de style en Deep Learning. Après une présentation de mes différents Je leur ai apporté des solutions techniques et des idées créatives pour la mise en place de leur photobooth. 
+
+Voir la [présentation en ligne](https://giloop-projects.gitlab.io/presentations/#/), et son [code source](https://gitlab.com/giloop-projects/presentations)
+
+
+#### 📽️ Vidéos Youtube 
+
+Pour les vidéos présentées ci-dessous, j'ai utilisé uniquement des logiciels gratuits : 
+
+- [OBS Studio](https://obsproject.com/fr/) qui me permet de faire un montage vidéo simple en même temps que je parle pour passer de la webcam à une capture de fenêtre de travail. Ce logiciel est simple à prendre en main, efficace et génère des vidéos de très bonne qualité avec un taux de compression record. Il m'a permis de faire la majorité des vidéos en une prise sans édition supplémentaire. 
+- [Da Vinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/) : logiciel de montage gratuit et puissant qui m'a permis d'ajouter un jingle, du texte. Une bonne alternative aux produits adobe. 
+- [Reveal JS et Hugo](https://themes.gohugo.io/theme/reveal-hugo/) : pour créer des supports de présentations en se focalisant sur le contenu écrit en Markdown. La mise en ligne est assurée par l'intégration continue avec Gitlab. Voir par exemple : [présentation IMTS](https://imts.gitlab.io/presentations/)
 
 #### Institut Solacroup 2020 
 
-Réalisations de tutorials pour la formation développeur Web / Web Mobile sur la chaîne Youtube de l'[Institut Solacroup](https://www.youtube.com/channel/UCpPL01txrUCFctWDRr9EcEg/videos). Thèmes abordés : 
+Réalisations de tutorials pour la formation développeur Web / Web Mobile sur la [chaîne Youtube de l'Institut Solacroup](https://www.youtube.com/channel/UCpPL01txrUCFctWDRr9EcEg/videos). Thèmes abordés : 
 
-- Présentation de la JAMSTACK pour générer des sites statiques et exemple de création d'un blog avec Hugo
-- Utilisation et animation des images SVG
 - Migrer son code d'un serveur local vers un hébergeur
 - Test et audit d'une page Web
+- Présentation de la JAMSTACK pour générer des sites statiques et exemple de création d'un blog avec Hugo
+- Utilisation et animation des images SVG
 - Astuces diverses informatiques
 - Explications pratiques pour la préparation d'un oral, la rédaction du dossier professionnel ou encore l'examen professionnel
 
+[🔼 Haut de page](#top)
+
 #### Bien vivre en Bretagne Romantique 2020
 
-Réalisation de vidéos d'explication sur le fonctionnement du site d'e-commerce pour les producteurs locaux 
-[Chaîne Youtube](https://www.youtube.com/channel/UChD7vhwenct2m9ueJ2t-MeQ). 
+Pour l'association Bien Vivre en Bretagne Romantique, j'ai participé à la mise en place du site de e-commerce pour un [marché ambulant](https://www.bvbr.org/marche-ambulant/). Dans ce cadre j'ai aussi réalisé de vidéos d'explication sur le fonctionnement du site d'e-commerce pour les producteurs locaux 
 
-### 📝 Publications 
+- [Chaîne Youtube de bien vivre en Bretagne Romantique](https://www.youtube.com/channel/UChD7vhwenct2m9ueJ2t-MeQ). 
+- [Support de présentation](https://gillou.gitlab.io/bvbr-presentations/) en ligne, [code source, fait avec reveal-hugo](https://gitlab.com/gillou/bvbr-presentations)
 
-[LMCS 2014](#lmcs-2014)
+[🔼 Haut de page](#top)
 
-[EUROSPEECH 05](#eurospeech-05)
+#### Portrait de Makers par Makeme
 
-[Thèse](#thèse) | [Mémoire de Thèse](#mémoire-de-thèse) | [CORESA 01](#coresa-2001) | [EUROSPEECH 01](#eurospeech-01) | [ICA 2001](#ica-2001) | [GRESTI 2001](#gretsi-2001) | [CFA 2000](#cfa-2000) | [JEP 2000](#jep-2000)
+Retrouver un portrait de [mon parcours de Maker](https://makeme.fr/portrait-de-makers-34-gilles-gonon/) réalisé par Makeme en 2019
 
-[Fourier Fractionnaire](#fourier-fractionnaire) | [SPC 2000](#spc-2000) | [GRETSI 99](#gretsi-1999) | [Rapport DEA](#rapport-dea-acoustique-1998)
+[🔼 Haut de page](#top)
 
-[Rapports non publiés ](#rapports-non-publiés)
+#### Matlab Conference 2018
 
-[Codage audio](#codage-audio) | [ENSEA](#ensea) | [Matrix-Pencil](#matrix-pensil) | [Réseau local CAN](#stage-ensea-1997)
+##### Le machine learning au secours du diagnostic moteur
 
+Yves Français (PSA), Gireg Lanoë (Acsystème), Gilles Gonon(Acsystème), Samuel Prat (Acsystème)
+
+#####  Résumé 
+
+PSA et Acsystème travaillent depuis un an à l’élaboration d’une nouvelle stratégie de diagnostic afin d’identifier les dysfonctionnements des organes groupes moto-propulseurs (GMP). Cette stratégie se base sur une méthode d’analyse graphique de type portrait de phase, analyse qui permet de déterminer les axes les plus discriminants entre des essais nominaux et des essais en défaut.
+
+Une fois ces axes déterminés, nous utilisons des méthodes type réseau de neurones ou approximation de gaussiennes pour calculer sur chaque point de mesure sa probabilité d’être un point en défaut ou nominal. Ces méthodes utilisent MATLAB® et Statistics and Machine Learning Toolbox™.
+
+Ensuite, un algorithme de décision est mis en place pour lever une éventuelle alerte sur l’essai étudié. Cette méthode permet ainsi de tracer des défauts de manière beaucoup plus précise (distinction défauts électriques et mécaniques notamment) et d’éviter de mauvaises déposes en après-vente.
+
+[Présentation vidéo](https://fr.mathworks.com/videos/machine-learning-in-automotive-1535625450467.html)
+
+[🔼 Haut de page](#top)
+
+#### ENSAI 2016 
+
+L'ENSAI est l'École Nationale de la Statistique et de l'Analyse de l'Information. Elle maintient un lien fort avec les entreprises aussi bien pour le conseil que pour la veille technologique. Dans ce cadre j'ai été invité à une présentation des travaux d'Acsystème et une table ronde sur la Data : 
+
+- Participation aux 20 ans de l'ENSAI lors d'une [Table ronde sur la data](http://20ans.ensai.fr/evenements/evenement/table-ronde-prospective-de-la-data-a-la-prise-de-decision-comment-passer-du-petrole-brut-a-la-chimie-fine/) : comment passer de la donnée brute à la création de valeur ?
+- Les matinales de Rennes Atalante : [matinale](http://20ans.ensai.fr/evenements/evenement/la-matinale-rennes-atalante/) sur l'apport des mathématiques au processus d’innovation des entreprises, [vidéo de présentation](https://services.y-congress.com/common/js/playerVideo/index2.html?dir=/Congress/Medias/2016/ATAL280116/5/video&hd=1)
 
 #### LMCS 2014 
 
@@ -49,6 +92,36 @@ Acsystème travaille depuis plusieurs années sur la mise au point d’algorithm
 
 > **Téléchargement** : [PDF](http://acsysteme.com/uploads/images/files/LMCS%202014/r%C3%A9sum%C3%A9s/LMCS%202014%20-%20Acsyst%C3%A8me%20-%20Gilles%20Gonon.pdf) - [PDF de la présentation](http://acsysteme.com/uploads/images/files/LMCS%202014/conf%C3%A9rences/LMCS%202014%20-%20Conf%C3%A9rence%20-%20Gilles%20Gonon.pdf)
 
+[🔼 Haut de page](#top)
+
+#### Speech Communication 2009
+
+##### Probabilistic scoring using decision trees for fast and scalable speaker recognition
+
+
+##### Résumé 
+
+In the context of fast and low cost speaker recognition, this article investigates several techniques based on decision trees. A new approach is introduced where the trees are used to estimate a score function rather than returning a decision among classes. This technique is developed to approximate the GMM log-likelihood ratio (LLR) score function. On top of this approach, different solutions are derived to improve the accuracy of the proposed trees. The first one studies the quantization of the LLR function to create classification trees on the LLR values. The second one makes use of knowledge on the GMM distribution of the acoustic features in order to build oblique trees. A third extension consists in using a low-complexity score function in each of the tree leaves. Series of comparative experiments are performed on the NIST 2005 speaker recognition evaluation data in order to evaluate the impact of the proposed improvements in terms of efficiency, execution time and algorithmic complexity. Considering a baseline system with an Equal Error Rate (EER) of 9.6% on the NIST 2005 evaluation, the best tree-based configuration achieves an EER of 12.9%, with a computational cost adapted to embedded devices and an execution time suitable for real-time speaker identification.
+
+
+```bibtex
+@article{gonon:inria-00544959,
+  TITLE = {{Probabilistic scoring using decision trees for fast and scalable speaker recognition}},
+  AUTHOR = {Gonon, Gilles and Bimbot, Fr{\'e}d{\'e}ric and Gribonval, R{\'e}mi},
+  JOURNAL = {{Speech Communication}},
+  PUBLISHER = {{Elsevier : North-Holland}},
+  VOLUME = {51},
+  NUMBER = {11},
+  PAGES = {1065 - 1081},
+  YEAR = {2009},
+  DOI = {10.1016/j.specom.2009.02.007},
+  KEYWORDS = {Biometric authentication}
+}
+```
+
+> **Téléchargement** : [PDF](https://hal.inria.fr/inria-00544959/file/article_specom_gonon_decision_trees_ASR_final.pdf)
+
+[🔼 Haut de page](#top)
 
 #### EUROSPEECH 05
 
@@ -75,6 +148,22 @@ month = septembre
 > **Téléchargement** : [PS (gzip)](http://gil.69.free.fr/pub/IRISA/GG_eurospeech2005_decision_trees_for_ASR.ps.gz) - [PDF](http://gil.69.free.fr/pub/IRISA/GG_eurospeech2005_decision_trees_for_ASR.pdf)
 
 [🔼 Retour en haut](#top)
+
+#### Interstice Info 2007
+
+##### De la reconnaissance automatique du locuteur à la signature vocale
+
+Gilles Gonon & Frédéric Bimbot
+
+Publication sur le site de vulgarisation de l'INRIA intertices.info
+
+##### Résumé 
+
+La reconnaissance automatique du locuteur recherche des méthodes pour extraire les caractéristiques vocales propres à chaque individu. Ces caractéristiques servent à créer une signature vocale qui permette d'authentifier la voix de chacun.
+
+[Voir l'article](https://interstices.info/de-la-reconnaissance-automatique-du-locuteur-a-la-signature-vocale/)
+
+[🔼 Haut de page](#top)
 
 #### 🎓 Thèse
 
@@ -179,7 +268,7 @@ month = may
 
 [🔼 Haut de page](#top)
 
-#### GRESTI 2001
+#### GRETSI 2001
 
 ##### Segmentation multibande adaptée basée sur le Critère Entropique Local pour le codage audio
 

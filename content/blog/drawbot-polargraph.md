@@ -5,10 +5,9 @@ description: "Un robot qui dessine ... mais pourquoi faire 🥽 ?"
 type: "post"
 image: "images/post-head/DrawbotPolargraph.jpg"
 summary: "Un robot qui dessine ... mais pourquoi faire 🥽 ?"
-categories: ["Affiche du mois"]
-tags: ["DrawBot", "Polargraph", "Processing", "Maker"]
+categories: ["Maker"]
+tags: ["DrawBot", "Polargraph", "Processing", "Affiche du mois"]
 ---
-
 
 ## Présentation
 
@@ -21,9 +20,10 @@ Depuis longtemps, j'ai une fascination pour les drawbots, ces robots qui dessine
 
 ## L'Eggbot
 
-Il y a quelques années déjà, j'ai imprimé mon premier Eggbot et je me suis bien amusé avec, surtout durant la période de Pâques. 
+Il y a quelques années déjà, j'ai imprimé mon premier Eggbot et je me suis bien amusé avec, surtout durant la période de Pâques. Il y a un intrus
+dans les images ci-dessous, il s'agit d'un oeuf traditionnel roumain ramené par un ancien collègue. 
 
-> 💡 TODO : ajouter des photos
+{{< img-lightbox-gallery "directory"="eggbot" "sort"="asc" >}}
 
 ## Le polargraph
 

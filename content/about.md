@@ -2,6 +2,7 @@
 title: "À propos"
 date: 2021-02-17T14:46:10+06:00
 description: "Qui es-tu Gilles Gonon ?"
+summary: "Qui es-tu Gilles Gonon ?"
 image: "images/gilles-dribble.png"
 ---
 

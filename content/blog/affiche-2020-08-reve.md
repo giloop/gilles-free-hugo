@@ -19,7 +19,7 @@ Cette phrase est sortie lors d'une discussion avec ma fille en allant à l'écol
 
 {{< lazy-image src="affiches/affiche-2020-08-reves.jpg" >}} 
 
-> Affiche de 1.5m x 1m
+> Affiche de 0.80m x 1m
 
 Le dessin est fait sous Inkscape, le contour est tracé avec mon [Polargraph](../drawbot-polargraph) avant mise en couleur manuelle.
 
