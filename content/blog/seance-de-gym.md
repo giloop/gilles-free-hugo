@@ -4,11 +4,8 @@ date: 2021-03-09T09:00:00
 description: "Une séance de Gym avec la poupée"
 type: "featured"
 image: "images/featured-post/etirements-yoga.jpg"
-categories: 
-  - "Photographie"
-tags:
-  - "Photos"
-  - "Yoga"
+categories: ["Photographie"]
+tags: ["Photos", "Yoga"]
 ---
 
 Réveil matinal en forme aujourd'hui, avec l'envie d'entamer la journée par une petite séance de Yoga. Relaxation, salutations, torsions, et au boulot !

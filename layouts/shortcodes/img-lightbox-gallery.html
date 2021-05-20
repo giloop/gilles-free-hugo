@@ -44,7 +44,7 @@
                     </div>
                     {{- /* close grid-column div if :
                         - (gt $idx 1) */}}
-                    {{- if (or (eq (mod $idx $nbLines) 0) (eq (sub $idx 1) $nbImg) (le $nbImg $nbLines))  }}
+                    {{- if (or (eq (mod $idx $nbLines) 0) (ge (add $idx 1) $nbImg) (le $nbImg $nbLines))  }}
                         </div> 
                     {{- end }}
                     {{- $.Scratch.Set "j" (add ($.Scratch.Get "j") 1) }}
