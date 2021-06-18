@@ -17,7 +17,7 @@ Pour l'anniversaire de ma fille, en mode confiné, nous avons fait un escape gam
 
 Ces épreuves permettaient de trouver une combinaison et une clef pour récompenser les aventuriers par un trésor de pots de caramels au beurre salé 😋. 
 
-Voici comment j'ai procédé 🧐. Avant de commencer, il est encore temps de vous dire que le tout m'a pris une après-midi 😓. L'épreuve de l'indice caché dans les samples sonores était un peu complexe et mérite d'être retravaillée, 🤯, mais le fait d'avoir des phrases personnalisées à beaucoup amuser les enfants 🥳. 
+Voici comment j'ai procédé 🧐. Avant de commencer, il est encore temps de vous dire que le tout m'a pris une après-midi 😓. L'épreuve de l'indice caché dans les samples sonores était un peu complexe et mérite d'être retravaillée, 🤯, mais le fait d'avoir des phrases personnalisées a beaucoup amusé les enfants 🥳. 
 
 > Si vous êtes entre Rennes et Saint Malo et que vous souhaitez récupérer ou mettre en place ce système pour un évènement, [contactez-moi](/contact/) ! 
 
@@ -25,10 +25,10 @@ Voici comment j'ai procédé 🧐. Avant de commencer, il est encore temps de vo
 
 J'utilise pour ce projet une [Sound Board](https://learn.adafruit.com/adafruit-audio-fx-sound-board) d'Adafruit qui permet de déclencher des samples audio avec différents modes : aléatoires, en boucle, en ordre établi. L'utilisation est très simple, il suffit de : 
 
-- d'associer des sons à chaque trigger de la carte (11 triggers pouvant recevoir jusqu'à 99 sons chacun, mais la mémoire est limitée ... ça serait trop beau). 
-- de connecter des interrupteurs pour déclencher les sons
-- d'alimenter la carte avec un chargeur de téléphone 
-- de relier la sortie une enceinte audio par cable mini-jack
+- associer des sons à chaque trigger de la carte (11 triggers pouvant recevoir jusqu'à 99 sons chacun, mais la mémoire est limitée ... ça serait trop beau). 
+- connecter des interrupteurs pour déclencher les sons
+- alimenter la carte avec un chargeur de téléphone 
+- relier la sortie une enceinte audio par cable mini-jack
 
 Si la connectique est plutôt simple et efficace, c'est dans le choix des sons et des interrupteurs que se créé l'énigme. Dans mon cas, j'ai récupéré 8 interrupteurs de *fortune* que j'ai mis en scène sur une vieille boîte à chaussure. 
 
