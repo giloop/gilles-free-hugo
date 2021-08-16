@@ -2,8 +2,8 @@
 title: "Printemps Des Poetes 2021"
 date: 2021-03-22T15:03:53+01:00
 description: "C'est le printemps des poêtes, récit d'une affiche de 1.60m x 1m à l'aquarelle"
-type: "featured"
-image: "images/featured-post/printemps-poetes-2021.jpg"
+type: "post"
+image: "images/post-head/printemps-poetes-2021.jpg"
 summary: "C'est le printemps des poêtes, récit de l'affiche du mois 1.60m x 1m entièrement à l'aquarelle"
 categories: ["Affiche du mois"]
 tags: ["Poésie", "Printemps des poêtes", "DrawBot", "Polargraph", "Processing", "Maker"]
