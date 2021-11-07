@@ -2,7 +2,7 @@
 title: "Le Dé-clic"
 date: 2021-08-15T18:05:36+01:00
 description: "Faut-il sortir de l'ère du clic ?"
-type: "featured"
+type: "post"
 image: "images/featured-post/affiche-declic.jpg"
 summary: "Faut-il sortir de l'ère du clic ?"
 categories: ["Affiche du mois"]
