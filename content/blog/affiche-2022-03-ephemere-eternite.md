@@ -1,12 +1,17 @@
 ---
-title: "Ephémère éternité"
+title: Ephémère éternité
 date: 2022-03-22T19:45:00+01:00
 description: "Il existerait un lien qui relie l'éphémère à l'éternel : le temps présent ?"
 summary: "Il existerait un lien qui relie l'éphémère à l'éternel : le temps présent ?"
-type: "featured"
-image: "images/affiches/affiche-2022-03-ephemere-eternite-head.jpg"
-categories: ["Affiche du mois"]
-tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
+type: featured
+image: images/affiches/affiche-2022-03-ephemere-eternite-head.jpg
+categories:
+  - Affiche du mois
+tags:
+  - Réflexion
+  - DrawBot
+  - Polargraph
+  - Maker
 draft: false
 ---
 
