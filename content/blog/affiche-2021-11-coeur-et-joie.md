@@ -3,7 +3,7 @@ title: "Le Coeur & la Joie"
 date: 2021-11-06T22:05:36+01:00
 description: "Comment écrire un futur optimiste et enthousiasmant ?"
 summary: "Comment écrire un futur optimiste et enthousiasmant ?"
-type: "featured"
+type: "post"
 image: "images/featured-post/affiche-coeur-et-joie.jpg"
 categories: ["Affiche du mois"]
 tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
