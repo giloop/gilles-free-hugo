@@ -1,0 +1,11 @@
+{{- $sketchId := path.Base (.Get (sub (len .Params) 1)) | replaceRE ".js$" ""}}
+<div id="{{ $sketchId }}"> </div>
+
+{{ $string := "" }}
+{{ range .Params }}
+    {{ $string =  printf "%s%s|" $string . }}
+{{ end }}
+
+{{ .Page.Scratch.Set "p5jslibs" (substr $string 0 -1) }}
+
+<!-- p>Args : {{ .Page.Scratch.Get "p5jslibs" }} </p -->

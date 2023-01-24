@@ -1,13 +1,18 @@
 ---
-title: "Le syndrome du Triple Tour"
-date: 2021-03-10T10:46:10+06:00
-description: "ou comment nos choix technologiques nous conditionnent."
-summary: "ou comment nos choix technologiques nous conditionnent."
-type: "featured"
-image: "images/featured-post/triple-tour.jpg"
+title: Le syndrome du Triple Tour
+date: 2022-05-20T06:21:55.777Z
+description: Le syndrome du Triple Tour ou comment nos choix technologiques nous
+  conditionnent.
+summary: Le syndrome du Triple Tour ou comment nos choix technologiques nous
+  conditionnent.
+type: featured
+image: images/featured-post/triple-tour.jpg
 draft: true
-categories: ["Réflexions"]
-tags: ["Réflexions", "Divers"]
+categories:
+  - Réflexions
+tags:
+  - Réflexions
+  - Divers
 ---
 
 

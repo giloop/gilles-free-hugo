@@ -15,3 +15,8 @@ Je suis reparti du thème Hugo-Parsa auquel j'ai apporté quelques petites modif
 de mise en forme, traduction, correction, ... Le thème est donc un fork. 
 
 Toutes les photos du site sont personnelles, Gilles Gonon, et ne sont pas utilisables sans mon autorisation (que je vous donnerai avec plaisir). Merci ! 
+
+Mémo pour moi-même : 
+
+- Pour générer un nouveau post `hugo new blog/titre-slug-article.md`
+- Lancement du site en local `hugo server -D`
