@@ -117,3 +117,24 @@ Grille d'images bootstrap
 @media screen and (min-width: 990px) {
   .grid-sizer, .grid-item { width: 25%; }
 }
+
+
+/* P5 form elements */
+.p5-form, .p5-form label { margin-bottom: 0;}
+
+button.p5-form {
+  border-radius: 2px;
+  border: 2px solid #ff4742;
+  color: #ff4742;
+  background: 0 0;
+  padding: 8px; 
+}
+
+button.p5-form:hover{
+  background-color: #ff4742;
+  color: #fff;
+}
+
+input[type='checkbox'], input[type=range] {
+  margin: 0.5rem;
+}
