@@ -2,22 +2,26 @@
 title: J'apprends des plantes
 date: 2022-06-01T08:31:00+02:00
 description: Comment les oiseaux du paradis ?
-type: post
-image: ""
+type: "featured"
+image: "/images/featured-post/fleurs-oiseaux.jpg"
 summary: Comment les oiseaux du paradis ?
 categories:
   - Réflexions
 tags:
   - Réflexions
+draft: true
 lastmod: 2022-05-20T06:59:22.109Z
 ---
 
-C'est en regardant un oiseaux du paradis que j'ai eu comme un flash. Comment une plante qui n'a pas d'yeux peut faire pour ressembler à des oiseaux ou des insectes ?
+C'est en regardant un *oiseau du paradis*, le Strelitzia, cette fleur qui ressemble à un oiseau huppé que j'ai eu comme un flash. Comment une plante qui n'a pas d'yeux peut faire pour ressembler à des oiseaux ou des insectes ?
 Comment une plante qui n'a pas de nez peut émettre une odeur qui nous charme, nous enivre ou nous repousse ?
 
-Quels sont les capteurs sensibles d'une plante pour reproduire fidèlement une apparence visuelle. Nous avons créé des outils pour reproduire la réalité là où les plantes évoluent elles mêmes pour la reproduire.
+Quels sont les capteurs sensibles d'une plante pour reproduire fidèlement une apparence visuelle ? 
 
-Et là réponse des plantes me plaît. Leurs stratégies pour survivre sont quand même d'un autre ordre que les fusils et les canons. Répondre à un problème par une fleur, un fruit, une odeur. Ça ca me plaît
+Nous avons créé des outils pour reproduire la réalité, appareil photo, caméra, là où les plantes 
+évoluent elles mêmes pour la reproduire.
+
+Et cette réponse, cette réaction des plantes me plaît. Leurs stratégies pour survivre sont quand même d'un autre ordre que les fusils et les canons. Répondre à un problème par une fleur, un fruit, une odeur. Ça ca me plaît
 Restons humble, nous avons tellement à apprendre encore dans nos comportements et notre approche intellectuelle
 est tellement à côté de la plaque que quand on en mesure toute l'absurdité, le monde des hommes devient aussi 
 drôle qu'un film des monty python. 

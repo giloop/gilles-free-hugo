@@ -138,3 +138,5 @@ button.p5-form:hover{
 input[type='checkbox'], input[type=range] {
   margin: 0.5rem;
 }
+
+.highlight * { margin-bottom: 0px;}

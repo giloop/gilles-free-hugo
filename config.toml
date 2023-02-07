@@ -176,5 +176,5 @@ url = "https://gitlab.com/gilles.gonon"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "vs"
+    style = "monokai"
     tabWidth = 4
