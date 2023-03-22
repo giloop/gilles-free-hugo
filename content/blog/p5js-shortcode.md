@@ -6,14 +6,14 @@ type: "post"
 image: "images/post-head/p5js.png"
 summary: "Comment inclure un sketch p5.js dans Hugo"
 categories: ["Programmation"]
-tags: ["javascript", "creative coding", "p5js"]
-draft: true
+tags: ["javascript", "js", "creative coding", "p5js"]
+draft: false
 ---
 
 ## En avant-propos - une démo
 
 Après quelques heures de luttes acharnées pour inclure un sketch utilisant la librairie 
-[p5.js](https://p5js.org), j'arrive à une solution fonctionnelle, mais pas tout à fait élégante. 
+[p5.js](https://p5js.org), j'arrive à une solution fonctionnelle mais pas tout à fait élégante.
 En tout cas, le résultat est satisfaisant. 
 
 {{< p5js "flow-field/particule.js" "flow-field/sketch-1.js" >}}
@@ -33,35 +33,31 @@ renseignés dans l'ordre de leur instanciation dans l'ex. ci-dessus `sketch-1.js
 
 2. Un container du nom du sketch est créé dans la page à l'endroit où est inséré le shortcode, ici `<div id="sketch-1"></div>`
 3. Il faut donc modifier le setup du sketch pour être inclus dans ce conteneur. 
-4. Si vous créez des éléments de contrôle depuis votre sketch, il faut aussi les inclure dans le conteneur. il est aussi possible 
+4. Si vous créez des éléments de contrôle depuis votre sketch, il faut aussi les inclure dans le conteneur.
 5. Dans le bout de code ci-dessous, la largeur du sketch est également adaptée à la largeur du conteneur. 
 
 Voilà ce que donne le setup du sketch p5js adapté : 
 
 ```js
 function setup() {
-    
-    const sketchId = 'sketch-1'; // id = script name without extension
-    // Container computer width
-    const contWidth = document.getElementById(sketchId).offsetWidth;
-    
-    // Canvas in parent id
-    createCanvas(contWidth, 400).parent(sketchId);
-    
-    // Slider, button, ... in parent also, with style
-    slider = createSlider(0.001, 0.25, 0.05, 0.01).parent(sketchId).class('p5-form');
-    btn_new = createButton('Re-generate').parent(sketchId).class('p5-form')
-    cb_field = createCheckbox('View perlin noise grid', false).parent(sketchId).class('p5-form');
-    cb_field.changed(checkBoxLatch);
-    cb_time = createCheckbox('Time evolution (3D noise)', true).parent(sketchId).class('p5-form');
-    btn_new.mousePressed(genNewGrid);
-
-    // Add parent & style at creation or afterward
-    // slider.parent(sketchId).class('p5-form');
-    // btn_new.parent(sketchId).class('p5-form');
-    // cb_field.parent(sketchId).class('p5-form');
-    // cb_time.parent(sketchId).class('p5-form');
-    // ...
+  const sketchId = 'sketch-1'; // id = script name without extension
+  // Container computer width
+  const contWidth = document.getElementById(sketchId).offsetWidth;
+  // Canvas in parent id
+  createCanvas(contWidth, 400).parent(sketchId);
+  // Slider, button, ... in parent also, with style
+  slider = createSlider(0.001, 0.25, 0.05, 0.01).parent(sketchId).class('p5-form');
+  btn_new = createButton('Re-generate').parent(sketchId).class('p5-form')
+  cb_field = createCheckbox('View perlin noise grid', false).parent(sketchId).class('p5-form');
+  cb_field.changed(checkBoxLatch);
+  cb_time = createCheckbox('Time evolution (3D noise)', true).parent(sketchId).class('p5-form');
+  btn_new.mousePressed(genNewGrid);
+  // Add parent & style at creation or afterward
+  // slider.parent(sketchId).class('p5-form');
+  // btn_new.parent(sketchId).class('p5-form');
+  // cb_field.parent(sketchId).class('p5-form');
+  // cb_time.parent(sketchId).class('p5-form');
+  // ...
 }
 ```
 

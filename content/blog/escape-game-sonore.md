@@ -2,7 +2,7 @@
 title: "Un Escape Game sonore 👂"
 date: 2021-05-18T09:42:09+02:00
 description: "Pour l'anniversaire de ma fille, j'ai créé deux épreuves d'escape game à base de son : Le Gueulomaton pour décoincer une clef accrochée au plafond et un indice de combinaison à base de samples aléatoires ... On ne se refait pas !"
-type: "featured"
+type: "post"
 image: "images/featured-post/happy-birthday.jpg"
 summary: "Pour l'anniversaire de ma fille, j'ai créé deux épreuves d'escape game à base de son : Le Gueulomaton pour décoincer une clef accrochée au plafond et un indice de combinaison à base de samples aléatoires ... On ne se refait pas !"
 categories: ["Maker"]
