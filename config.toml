@@ -131,7 +131,7 @@ address = "5 avenue des Trente, Tinténiac"
 # Contact Form Action
 contact_form_action = "https://formspree.io/f/mleoyabr"
 # copyright
-copyright = "Fait avec 💗 et [Hugo](https://gohugo.io/) par Gilles G. - 2021 original theme by [themefisher](themefisher.com)"
+copyright = "Fait avec 💗 et [Hugo](https://gohugo.io/) par Gilles G. - 2021 original theme by [themefisher](https://themefisher.com)"
 
 # Instagram feed
 [params.instafeed]
