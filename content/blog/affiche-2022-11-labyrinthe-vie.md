@@ -16,6 +16,15 @@ draft: true
 
 Si la vie était un labyrinthe, diriez-vous que vous avez trouvé la sortie ?
 
+Je trouve la métaphore du layrinthe assez intéressante à suivre, le temps d'une affiche au moins. 
+S'il m'arrive de voir ma vie comme un dédale, avec ses impasses et ses avancées, j'ai peut être longtemps 
+eu peur d'atteindre la sortie. Mais si maintenant le labyrinthe n'était que les ménadres de notre mental, 
+une construction personnelle dans laquelle nous créons nous mêmes les impasses au fil de nos névroses, 
+alors qui ne voudrait pas en sortir, se libérer tout simplement de ce mode de fonctionnement. 
+J'ai heureusement l'impression que plus j'avance, moins je m'embête avec tout un tas de choses inutile, 
+ici un stress ..., là un petit soucis ...
+
+
 {{< lazy-image src="affiches/affiche-2022-11-labyrinthe-vie-01.jpg" >}} 
 {{< lazy-image src="affiches/affiche-2022-11-labyrinthe-vie-02.jpg" >}} 
 
