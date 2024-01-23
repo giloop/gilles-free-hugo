@@ -6,7 +6,7 @@ type: "post"
 image: "images/post-head/affiche-du-mois-2020-08.jpg"
 summary: "La première affiche du mois ! Du rêve au réveil, quand pouvons-nous écouter nos envies ?"
 categories: ["Affiche du mois"]
-tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker"]
+tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker", "Affiche du mois"]
 draft: false
 ---
 

@@ -6,7 +6,7 @@ type: "post"
 image: "images/affiches/affiche-2021-01-bonne-annee-head.jpg"
 summary: "Bonne année, qu'est-ce qu'on peut vous souhaiter ?"
 categories: ["Affiche du mois"]
-tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker"]
+tags: ["Poésie", "Affiche du mois", "DrawBot", "Polargraph", "Processing", "Maker"]
 draft: false
 ---
 

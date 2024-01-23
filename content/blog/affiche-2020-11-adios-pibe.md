@@ -6,7 +6,7 @@ type: "post"
 image: "images/affiches/affiche-2020-11-maradona-head.jpg"
 summary: "L'âme du football s'est éteinte, adios Maradona"
 categories: ["Affiche du mois"]
-tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker"]
+tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker", "Affiche du mois"]
 draft: false
 ---
 

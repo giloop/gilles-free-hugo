@@ -6,7 +6,7 @@ type: "post"
 image: "images/affiches/affiche-2020-12-noel-head.jpg"
 summary: "Covid, restrictions de liberté, familles masquées ... comment fêter Noël en cette année spéciale ?"
 categories: ["Affiche du mois"]
-tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker"]
+tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker", "Affiche du mois"]
 draft: false
 ---
 

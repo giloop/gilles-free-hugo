@@ -6,7 +6,7 @@ type: "post"
 image: "images/affiches/affiche-2021-02-la-voie-head.jpg"
 summary: "Il n'y a ni monde d'avant ni monde d'après, alors où va t'on maintenant ?"
 categories: ["Affiche du mois"]
-tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker"]
+tags: ["Poésie", "Affiche du mois", "DrawBot", "Polargraph", "Processing", "Maker"]
 draft: false
 ---
 

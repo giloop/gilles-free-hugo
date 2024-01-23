@@ -6,7 +6,7 @@ summary: "Une nouvelle année, c'est l'espoir du changement inscrit dans la cont
 type: "post"
 image: "images/affiches/affiche-2022-01-bonne-annee-01.jpg"
 categories: ["Affiche du mois"]
-tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
+tags: ["Réflexion", "Affiche du mois", "DrawBot", "Polargraph", "Maker"]
 draft: false
 ---
 

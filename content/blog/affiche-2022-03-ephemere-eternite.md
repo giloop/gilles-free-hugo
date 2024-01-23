@@ -8,10 +8,11 @@ image: images/affiches/affiche-2022-03-ephemere-eternite-head.jpg
 categories:
   - Affiche du mois
 tags:
-  - Réflexion
+  - Poésie
   - DrawBot
   - Polargraph
   - Maker
+  - Affiche du mois
 draft: false
 ---
 

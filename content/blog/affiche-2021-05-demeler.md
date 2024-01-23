@@ -6,7 +6,7 @@ type: "post"
 image: "images/post-head/affiche-2021-05-demeler.jpg"
 summary: "Alors que ce monde est de plus en plus virtuel, que tout peut être trafiqué, comment démêler le vrai du faux ?"
 categories: ["Affiche du mois"]
-tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
+tags: ["Réflexion", "Affiche du mois", "DrawBot", "Polargraph", "Maker"]
 draft: false
 ---
 

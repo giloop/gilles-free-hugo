@@ -6,7 +6,7 @@ type: "post"
 image: "images/affiches/affiche-2020-10-etre-soi-head.jpg"
 summary: "Pensée globale, action locale avec cette affiche"
 categories: ["Affiche du mois"]
-tags: ["Transition", "DrawBot", "Polargraph", "Processing", "Maker"]
+tags: ["Transition", "DrawBot", "Polargraph", "Processing", "Maker", "Affiche du mois"]
 draft: false
 ---
 

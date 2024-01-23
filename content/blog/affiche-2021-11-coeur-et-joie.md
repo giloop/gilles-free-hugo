@@ -6,7 +6,7 @@ summary: "Comment écrire un futur optimiste et enthousiasmant ?"
 type: "post"
 image: "images/featured-post/affiche-coeur-et-joie.jpg"
 categories: ["Affiche du mois"]
-tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
+tags: ["Réflexion", "Affiche du mois", "DrawBot", "Polargraph", "Maker"]
 draft: false
 ---
 

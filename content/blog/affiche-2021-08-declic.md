@@ -6,7 +6,7 @@ type: "post"
 image: "images/featured-post/affiche-declic.jpg"
 summary: "Faut-il sortir de l'ère du clic ?"
 categories: ["Affiche du mois"]
-tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
+tags: ["Réflexion", "Affiche du mois", "DrawBot", "Polargraph", "Maker"]
 draft: false
 ---
 

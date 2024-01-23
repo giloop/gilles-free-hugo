@@ -3,7 +3,7 @@ title: "A p5js shortcode"
 date: 2023-01-24T08:16:57+02:00
 description: "Inclure un sketch p5.js dans Hugo, c'est facile !"
 type: "post"
-image: "images/post-head/p5js.png"
+image: "images/post-head/p5js-field.jpg"
 summary: "Inclure un sketch p5.js dans Hugo, c'est facile !"
 categories: ["Programmation"]
 tags: ["javascript", "js", "creative coding", "p5js"]

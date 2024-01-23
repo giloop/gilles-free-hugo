@@ -6,7 +6,7 @@ summary: "Heureux à tous les ages, la recette du bonheur"
 type: "post"
 image: "images/affiches/affiche-2022-02-etre-heureux-01.jpg"
 categories: ["Affiche du mois"]
-tags: ["Réflexion", "DrawBot", "Polargraph", "Maker"]
+tags: ["Réflexion", "Affiche du mois", "DrawBot", "Polargraph", "Maker"]
 draft: false
 ---
 
