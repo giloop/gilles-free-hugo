@@ -15,11 +15,14 @@ tags:
 draft: false
 ---
 
+Le printemps des pôetes est sur le thème oh combien d'actualité des frontières. Ces frontières
+qui nous rassemblent au sein d'un même pays, mais qui nous séparent aussi et sont à la sources de 
+nombreux conflits, aussi bien internationnaux que de voisinage. 
 
 > Avant les frontières n'existaient pas, pas même celle entre la vie et la mort.
 
 
-Voilà ce que ça donne en couleur et en affiche :
+Voilà ce que ça donne en couleur et en affiche. Désolé pour les daltoniens, le noir sur rouge n'est pas très *accessible* (j'essaierai d'y penser pour les prochaines affiches) :
 
 {{< lazy-image src="affiches/affiche-2023-04-frontieres-01.jpg" >}}
 {{< lazy-image src="affiches/affiche-2023-04-frontieres-02.jpg" >}}

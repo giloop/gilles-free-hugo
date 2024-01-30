@@ -22,12 +22,12 @@ S'il m'arrive de voir ma vie comme un dédale, avec ses impasses et ses avancée
 longtemps eu peur d'atteindre la sortie. 
 
 Mais si maintenant ce labyrinthe n'était que les méandres de notre mental,
-une construction personnelle dans laquelle nous créons nous mêmes les impasses au fil de nos 
-névroses, de nos rencontres, de notre histoire, alors qui ne voudrait pas en sortir ? se libérer 
-tout simplement de ce mode de fonctionnement.
+une construction personnelle dans laquelle nous créons nous-mêmes les impasses au fil de nos 
+névroses, de nos rencontres, de notre histoire, alors qui ne voudrait pas en sortir, se libérer 
+tout simplement de ce mode de fonctionnement ?
 
 J'ai heureusement l'impression que plus j'avance, moins je m'embête avec tout un tas de choses 
-inutiles, ici un stress, là un mode de fonctionne négatif, ...  
+inutiles, ici un stress, là un mode de fonctionnement négatif, ...  
 Mais j'avance avec douceur et un bien-être que j'arrive à savourer à *presque* tout instant, sans pour 
 autant avoir encore trouvé une voie qui propose un compromis suffisant pour allier travail et passions. 
 Je crois que pour moi, ce sera une vie de recherche, et d'expérimentation dans ce monde où le vivant 
