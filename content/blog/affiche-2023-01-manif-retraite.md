@@ -46,12 +46,13 @@ les décénies à venir ...
 
 Le second slogan, plus explicite et sans appel, pour nous rappeler que les plus riches 
 continuent de s'enrichir, et pas vraiment par le travail, tandis que la masse est 
-maintenant condamnée à finir sa vie *sans incapacité* au travail[^1]. 
+maintenant condamnée à faire sa vie *sans incapacité* au travail[^1] 
+(64 ans pour les hommes, 65 pour les femmes). 
 Il n'y a plus de projet social devant cet indécent déséquilibre de répartition des 
 richesses. 
 
 > On a bien un problème de répartition  
-> Rendez nous l'argent du capital !!!
+> ➜ Rendez nous l'argent du capital !!!
 
 Voilà ce que ça donne en couleur et en affiche :
 

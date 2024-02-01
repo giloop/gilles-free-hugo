@@ -23,17 +23,19 @@ longtemps eu peur d'atteindre la sortie.
 
 Mais si maintenant ce labyrinthe n'était que les méandres de notre mental,
 une construction personnelle dans laquelle nous créons nous-mêmes les impasses au fil de nos 
-névroses, de nos rencontres, de notre histoire, alors qui ne voudrait pas en sortir, se libérer 
+névroses, de nos rencontres, de notre histoire ... Alors qui ne voudrait pas en sortir, se libérer 
 tout simplement de ce mode de fonctionnement ?
 
 J'ai heureusement l'impression que plus j'avance, moins je m'embête avec tout un tas de choses 
 inutiles, ici un stress, là un mode de fonctionnement négatif, ...  
-Mais j'avance avec douceur et un bien-être que j'arrive à savourer à *presque* tout instant, sans pour 
-autant avoir encore trouvé une voie qui propose un compromis suffisant pour allier travail et passions. 
-Je crois que pour moi, ce sera une vie de recherche, et d'expérimentation dans ce monde où le vivant 
-s'effondre. 
+J'essaie au mieux d'avancer en puisant du côté positif plutôt que dans 
+ma part d'ombre et de tristesse. C'est avec douceur et bien-être que j'arrive ainsi à savourer de nombreux instants, 
+sans pour autant avoir encore trouvé une voie qui propose un compromis suffisant pour allier travail et passions. 
+Je crois que pour moi, ce sera une vie de recherche, et d'expérimentation avec en toile de fond un monde trop 
+*humain* où c'est tout le vivant qui s'effondre. 
 
-C'est dans nos impasses que l'on peut aussi se détendre, et faire demi-tour pour continuer à avancer !
+Et chaque fois que je suis bloqué, je me dis que c'est aussi parfois dans nos impasses que l'on peut se détendre, 
+marquer une pause avant de faire demi-tour pour continuer à avancer !
 
 {{< lazy-image src="affiches/affiche-2022-11-labyrinthe-vie-01.jpg" >}}
 {{< lazy-image src="affiches/affiche-2022-11-labyrinthe-vie-02.jpg" >}}
