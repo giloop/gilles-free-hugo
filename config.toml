@@ -95,7 +95,7 @@ hasChildren = true
   parent = "Sites Pro"
   weight = 3
   name = "🤓 Cours d'informatique"
-  url = "https://giloop-projects.gitlab.io/"
+  url = "https://giloop-projects.gitlab.io/cours-giloop/"
 
 [[menu.main]]
 name = "Contact"
