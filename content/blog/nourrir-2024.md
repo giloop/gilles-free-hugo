@@ -25,7 +25,7 @@ Ne vous attendez pas non plus à des miracles...
 
 Pour moi, c'est bel et bien parti, premier article après un dry january quasiment sobre !
 
-En bouns, voici les liens vers les deux articles, à parcourir d'un oeil amusé :
+En bouns, voici les liens vers les deux articles, à parcourir d'un oeil léger :
 - *The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior*, Hengchen Dai, Katherine L. Milkman, Jason Riis
 Published Online:23 Jun 2014, https://doi.org/10.1287/mnsc.2014.1901
 - *Using fresh starts to nudge increased retirement savings*, John Beshears, Hengchen Dai, Katherine L. Milkman, Shlomo Benartzi,
