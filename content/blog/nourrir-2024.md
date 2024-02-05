@@ -3,8 +3,8 @@ title: Nourrir 2024
 date: 2024-02-01T19:46:50+01:00
 description: "Parmi mes bonnes résolutions pour l'année, il y a celle de ré-alimenter mon site en 2024 ..."
 summary: "Parmi mes bonnes résolutions pour l'année, il y a celle de ré-alimenter mon site en 2024 ..."
-type: post
-image: ""
+type: featured
+image: "images/featured-post/tartiflette-truchet.jpg"
 categories: ["Réflexion"]
 tags: ["Bonne année"]
 draft: false
