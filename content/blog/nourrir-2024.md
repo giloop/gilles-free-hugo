@@ -30,3 +30,7 @@ En bouns, voici les liens vers les deux articles, à parcourir d'un oeil léger 
 Published Online:23 Jun 2014, https://doi.org/10.1287/mnsc.2014.1901
 - *Using fresh starts to nudge increased retirement savings*, John Beshears, Hengchen Dai, Katherine L. Milkman, Shlomo Benartzi,
 Organizational Behavior and Human Decision Processes, Volume 167, 2021, Pages 72-87, ISSN 0749-5978, https://www.sciencedirect.com/science/article/abs/pii/S0749597821000698 
+
+Ah et à propos de la photo d'entête, il s'agit d'une tartiflette de [Truchet](http://gilles.gonon.free.fr/p5js/op-art/truchet.html) ! 
+
+{{< lazy-image src="truchet-tiling-1.png" >}}
