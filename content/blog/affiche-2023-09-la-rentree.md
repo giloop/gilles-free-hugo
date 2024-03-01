@@ -26,7 +26,7 @@ peindre à l'échelle.
 
 J'ai essayé de mettre un peu d'art dans cette rentrée là, tout en reprenant les codes de l'école. 
 Avant tout, cette affiche est un clin d'oeil aux collégiens qui passent tous les jours devant 
-le panneau en revenant du sport, leur proposer une parenthèse, un décalage sans obligation :  
+le panneau en revenant du sport, pour leur proposer une parenthèse, un décalage à qui veut bien le saisir :  
 
 > C'est l'Art en traits  
 > C'est l'Art~~s~~ ... Entrez !?  

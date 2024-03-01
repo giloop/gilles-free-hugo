@@ -41,13 +41,12 @@ aussi, car si le clin d'oeil à la chanson de Brassens est amusant pour la formu
 suis complètement d'accord avec la chanson qui préconise de plutôt choisir *la mort lente*.
 Car comme nous le dit Georges : *La vie est à peu près leur seul luxe ici-bas*. Entre les 
 idées et le travail il n'y a pas vraiment d'autre choix que la vie ! 
-Mais attention, ne nous trompons, on risque d'en perdre plus au travail qu'aux idées dans 
+Mais attention, ne nous trompons pas, on risque d'en perdre plus au travail qu'aux idées dans 
 les décénies à venir ...
 
 Le second slogan, plus explicite et sans appel, pour nous rappeler que les plus riches 
 continuent de s'enrichir, et pas vraiment par le travail, tandis que la masse est 
-maintenant condamnée à faire sa vie *sans incapacité* au travail[^1] 
-(64 ans pour les hommes, 65 pour les femmes). 
+maintenant condamnée à faire sa vie *sans incapacité* au travail[^1]. 
 Il n'y a plus de projet social devant cet indécent déséquilibre de répartition des 
 richesses. 
 
@@ -72,5 +71,5 @@ Une belle illustration ! Cliquez sur l'image pour afficher l'article
 [Voir les autres affiches](/categories/affiche-du-mois)
 
 
-[^1]: Thomas Deroyon (DREES) (2023, décembre). L’espérance de vie sans incapacité à 65 ans est de 11,8 ans pour les femmes et de 10,2 ans pour les hommes en 2022 . 
+[^1]: Thomas Deroyon (DREES) (2023, décembre). L’espérance de vie sans incapacité à 65 ans est de 11,8 ans pour les femmes et de 10,2 ans pour les hommes en 2022. 
 [Études et résultats, 1290](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/lesperance-de-vie-sans-incapacite-65-ans-1#:~:text=%C3%80%20la%20naissance%2C%20les%20femmes,1%20mois%20pour%20les%20hommes.).
