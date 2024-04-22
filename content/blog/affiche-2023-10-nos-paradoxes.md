@@ -18,30 +18,31 @@ draft: true
 J'ai souvent l'impression que mon esprit et mon corps sont un vaste chantier
 en pertuelle construction, avec des extensions voulues et travaillées, mais 
 aussi pas mal de zones en friches desquelles émergent du nouveau et de l'inconnu. 
-Ce n'est pas de tout repos et je ne sais pas comment c'est pour vous, mais il y 
+Ce n'est pas toujours de tout repos ... je ne sais pas comment c'est pour vous, mais il y 
 a des fois où j'aimerais que tout ça se calme.
 
-Au fil des années qui filent, je travaille sans relâche à mieux me connaître, 
-à me comprendre et à m'accepter. Et il en va de même pour les autres, une même 
-essence de recherche vers et pour l'autre. Mieux vivre avec moi-même et mieux 
-vivre avec les autres. Comme ces moments où en touchant les profondeurs de mon intime 
-j'accède par la même à ce qu'il y a d'universel, nos communs avoués ou cachés.
+Au fil des années qui filent, j'essaie donc de meiux me connaître, me comprendre et m'accepter. 
+Et il en va de même pour l'autres, une même essence de recherche vers et pour l'autre. 
+Mieux vivre avec moi-même et mieux vivre avec les autres. 
+Et par moments, en touchant les profondeurs de mon intime j'accède par la même à ce 
+qu'il y a d'universel en nous, nos communs avoués ou cachés.
 
 Pour tout ça, je n'ai pas de plan d'action, pas de plan d'attaque (et encore moins 
-de plan de carrière 🤗), et voilà que j'ai l'idée d'explorer mes paradoxes, de les 
-vivre, de les affronter, de les confronter. Ces petites contradictions intérieures, 
-ces aspects peu réjouissant de nos *personnas*. Ce qui nous attire mais là où sent
-qu'on ne veut pas aller. Faire des erreurs, se tromper, ou plutôt des expériences et 
-apprendre du côté obscur. Accepter d'être con, la honte, de se sentir bête, 
-ans pour autant accumuler les regrets. En rire pour y faire naître de la clarté.
+de plan de carrière 🤗), et dans ce joyeux bordel tout azimut, voilà que j'ai l'idée
+d'explorer mes paradoxes, de les vivre, de les affronter, de les confronter. 
+Ces petites contradictions intérieures, ces aspects peu réjouissant de nos *personnas*. 
+Qui nous attire mais on sent qu'on ne veut pas aller complétement. 
+Faire des erreurs, se tromper, ou plutôt des expériences et 
+apprendre du côté obscur. Accepter d'être con, d'avoir la honte, de se sentir bête, 
+sans pour autant accumuler les regrets. En rire pour y faire naître de la clarté.
 
 Et en plus de ça, il y a encore bien des choses que je voudrais explorer. Une vie, 
 une vie, suffira-t'elle ? Peu importe, il y en aura d'autres et des différentes. 
-Je crois que j'ai déjà bien donné, avec le sentiment gratifiant d'avoir écumé 
+Jusqu'ici tout va bien, j'ai déjà bien donné, avec le sentiment gratifiant d'avoir écumé 
 plusieurs vies. Et c'est pas fini !!
 
 Et vous, allez-vous explorer vos paradoxes, assumer votre côté obscur pour le rendre
-plus lumineux ? 
+plus lumineux ?
 
 > Nos Paradoxes  
 > Sont le Chemin  
