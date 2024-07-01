@@ -3,7 +3,7 @@ title: "Bye-bye Wordpress !"
 date: 2021-03-15T17:30:10+01:00
 description: "On casse tout et on recommence, cette fois-ci avec Hugo"
 summary: "On casse tout et on recommence, cette fois-ci avec Hugo"
-type: "featured"
+type: "post"
 image: "images/featured-post/exit-wordpress.jpg"
 categories: 
   - "Programmation"

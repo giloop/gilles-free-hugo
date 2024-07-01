@@ -2,7 +2,7 @@
 title: "Du Code à L'Objet"
 date: 2021-05-20T15:53:34+02:00
 description: "Ça part d'un programme en Javascript et ça finit sous votre tasse à café. Un récit en 4 étapes."
-type: "Ça part d'un programme en Javascript et ça finit sous votre tasse à café. Un récit en 4 étapes."
+type: "post"
 image: ""
 summary: "Ça part d'un programme en Javascript et ça finit sous votre tasse à café. Un récit en 4 étapes."
 categories: ["Maker"]

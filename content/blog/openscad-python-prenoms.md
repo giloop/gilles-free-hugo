@@ -2,7 +2,7 @@
 title: "Automatiser Openscad avec Python"
 date: 2020-10-24T14:46:10+06:00
 description: "Openscad + Python pour générer des impressions 3D"
-type: "featured"
+type: "post"
 image: "images/featured-post/PlaquesPrenoms.jpg"
 categories: 
   - "Impression 3D"

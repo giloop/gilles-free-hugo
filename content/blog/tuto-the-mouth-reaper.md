@@ -2,7 +2,7 @@
 title: "Tuto - The Mouth  Reaper"
 date: 2021-03-03T15:46:36+01:00
 description: "Explications pour utiliser The Mouth avec Reaper"
-type: "featured"
+type: "post"
 image: "images/featured-post/tuto-the-mouth.jpg"
 categories: ["music"]
 tags: ["music", "cockos", "reaper", "native instrument", "the mouth"]
