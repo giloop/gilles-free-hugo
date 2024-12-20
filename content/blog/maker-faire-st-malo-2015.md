@@ -1,6 +1,6 @@
 ---
 title: "[MiniMakerFaire] Le Gueulomaton"
-date: 20150412T09:00:00+06:00
+date: 2015-04-12T09:00:00+06:00
 description: "La première apparition du Gueulomaton, à la Mini Maker Faire St-Malo 2015"
 type: "post"
 image: "images/post-head/Gueulomaton_Flibustier.jpg"

@@ -11,6 +11,10 @@ draft: false
 ---
 
 {{< soundcloud-track 1860518304 >}}
+ 
+> 🖋️ : Je rajoute une version mp3 à lire ou télécharger sans SoundCloud.
+
+{{< audio src="/medias/Matin_Brun-Franck_Pavloff.mp3" >}}
 
 Nous vous proposons une lecture du livre "Matin Brun", avec l'aimable autorisation de **Franck Pavloff**, son auteur. Le livre est paru aux éditions **Cheyne** et on ne saurait que vous conseiller aussi l'édition illustrée par **C215** aux éditions **Albin Michel**.
 

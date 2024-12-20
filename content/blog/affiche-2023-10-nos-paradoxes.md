@@ -12,7 +12,7 @@ tags:
   - DrawBot
   - Polargraph
   - Affiche du mois
-draft: true
+draft: false
 ---
 
 J'ai souvent l'impression que mon esprit et mon corps sont un vaste chantier
@@ -22,7 +22,7 @@ Ce n'est pas toujours de tout repos ... je ne sais pas comment c'est pour vous, 
 a des fois où j'aimerais que tout ça se calme.
 
 Au fil des années qui filent, j'essaie donc de meiux me connaître, me comprendre et m'accepter. 
-Et il en va de même pour l'autres, une même essence de recherche vers et pour l'autre. 
+Et il en va de même pour les autres, une même essence de recherche vers et pour l'autre. 
 Mieux vivre avec moi-même et mieux vivre avec les autres. 
 Et par moments, en touchant les profondeurs de mon intime j'accède par la même à ce 
 qu'il y a d'universel en nous, nos communs avoués ou cachés.
