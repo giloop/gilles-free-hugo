@@ -12,7 +12,8 @@ draft: false
 
 
 Je ne suis pas un grand fan de foot, mais la vérité c'est j'aime quand 
-le match est bon, quand ça joue à la balle plus qu'à la faute. L'idée d'un spectacle vivant qui n'a jamais été répété et dont l'issue est souvent incertaine me fait vibrer, je l'avoue.
+le match est bon, quand ça joue à la balle plus qu'à la faute.
+L'idée d'un spectacle vivant qui n'a jamais été répété et dont l'issue est souvent incertaine me fait vibrer, je l'avoue.
 
 Aussi, Maradona était toujours au rendez-vous dans ces grands moments de ballon rond. Tout type de ballon, depuis son jeune âge où il allait à la mi-temps faire des dribbles impressionnants avec une balle de tennis à ses heures plus difficiles où [il continuait](https://www.youtube.com/watch?v=tJ69bFbgVG8). 
 
