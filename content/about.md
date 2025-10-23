@@ -8,9 +8,9 @@ image: "images/gilles-dribble.png"
 
 ### Bonjour, je suis **Gilles Gonon**
 
-Gilles Gonon, quadragénaire touche-à-tout et curieux de la vie sous toutes ses formes.
+Gilles Gonon, quniquagénaire touche-à-tout et curieux de la vie sous toutes ses formes.
 Passionné par les sciences, avec un gros background mathématique et informatique.
-Je suis aussi passionné de musique que je pratique avec émerveillement et assiduité.
+Je suis aussi passionné de musique que je pratique avec émerveillement et assiduité tous les jours.
 
 J'ai eu un parcours académique très riche - école d'ingénieur en électronique, DEA d'acoustique et thèse en traitement du signal - qui m'a amené à travailler 11 ans à l'université. En parallèle je faisais beaucoup de musique hésitant à tenter l'intermittence.
 
@@ -31,5 +31,13 @@ J'ai ensuite posé mes valises à [Acsystème](http://acsysteme.com/) durant 10 
 
 Fort de ce savoir-faire en informatique, je me suis alors tourné vers la formation professionnelle et participé au montage d'une formation labellisée par la [Grande École du Numérique](https://www.grandeecolenumerique.fr/) à Dinard. Un projet ambitieux et très humain de l'ESS, à l'[Institut Marie Thérèse Solacroup](https://www.institutsolacroup.com/). Après un an à concevoir / donner les cours et animer la formation le bilan était un peu mitigé personnellement, car l'investissement en temps ne m'a pas permis de faire marcher ma créativité. Le confinement a rajouté son lot de perturbation dans la période et le format *formation professionnelle* ne m'a pas plu. 
 
-Je travaille actuellement en indépendant pour développer mes projets et aider aux développements de projet locaux et plein de sens. 
+J'ai ensuite travaillé une année en indépendant pour développer mes projets et aider aux développements de projet locaux et plein de sens. J'ai ainsi repris le développement du site de la [ferme des Pinsons](https://www.lespinsons.bzh/) qui propose une commande
+en ligne auprès de plusieurs producteurs locaux, la musette, à récupérer et payer lors des marchés locaux. 
+J'ai également été lauréat de l'appel à projet du Labo Citoyen de la Communauté de communes de Bretagne Romantique en proposant de distribuer des capteurs de qualité de l'air aux citoyens pour participer au projet de mesures collaboratives 
+[Sensor Community](https://sensor.community/fr/). Les ateliers de constructions 
 
+En 2021, j'ai postulé à un programme de l'état pour faire rentrer des compétences extérieures dans les administrations 
+centrales - le [programme EIG](https://www.eig.numerique.gouv.fr/defis/smash/) des entrepreneurs d'intérêt général - 
+et j'ai donc commencé une nouvelle aventure à la DREES, le service de statistique du ministère de la Santé, pour construire un 
+outil pour simuler les évolutions de masse salariale à l'hopital public. Le sujet est ambitieux mais devrait déboucher sur 
+différentes publications en 2025. 
