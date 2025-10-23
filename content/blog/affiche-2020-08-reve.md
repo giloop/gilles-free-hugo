@@ -1,21 +1,24 @@
 ---
-title: "Du rêve au réveil"
+title: "Le rêveil des rêves"
 date: 2020-08-24T15:35:09+01:00
-description: "La première affiche du mois ! Du rêve au réveil, quand pouvons-nous écouter nos envies ?"
+description: "La première affiche du mois ! Quel est le meilleur moment dans nos vies pour réaliser nos rêves ?"
 type: "post"
 image: "images/post-head/affiche-du-mois-2020-08.jpg"
-summary: "La première affiche du mois ! Du rêve au réveil, quand pouvons-nous écouter nos envies ?"
+summary: "La première affiche du mois !  Quel est le meilleur moment dans nos vies pour réaliser nos rêves ?"
 categories: ["Affiche du mois"]
 tags: ["Poésie", "DrawBot", "Polargraph", "Processing", "Maker", "Affiche du mois"]
 draft: false
 ---
 
-## Ma première première affiche 
+## Ma première affiche 
 
-Cette phrase est sortie lors d'une discussion avec ma fille en allant à l'école, après le rituel où l'on se raconte nos rêves de la nuit. 
+Cette phrase est sortie lors d'une discussion avec ma fille en allant à l'école, après le rituel où l'on 
+se raconte nos rêves de la nuit. On était avec une amie à elle et je leur expliquais qu'il est
+important de se souvenir de ses rêves, c'est souvent des messages que l'on s'envoie à soi-même et qu'il
+faut savoir écouter. Au-delà de ce travail du matin, je trouve très jolie cette métaphore de l'idée du 
+réveil comme d'un moment pour attraper les rêves que l'on a dans la vie 😊.
 
-> Du rêve au réveil, quand pouvons-nous écouter nos envies ?
-
+> Il n'y a qu'au réveil que l'on peut rattraper le train de nos rêves
 
 {{< lazy-image src="affiches/affiche-2020-08-reves.jpg" >}} 
 
