@@ -16,8 +16,9 @@ Cette phrase est sortie lors d'une discussion avec ma fille et une de ses copine
 Comme un rituel du matin où l'on essait de se souvenir des rêves de la nuit et on se les raconte, je 
 leur expliquait comme il est important d'écouter ses rêves dans la vie. Et que ça commence dès le matin.
 De la est venue l'idée dans faire une affiche, un mantra, comme si chaque matin nous ouvrait un nouveau possible 
-pour vivre nos rêves dans la vie. Et dans tous les cas, si une chose reste certaine dans cette réflexion 
-c'est qu'il faut bien être *réveillé* pour vivre ses rêves.
+pour vivre nos rêves dans la vie. 
+Au-delà de ce travail du matin, je trouve très jolie cette métaphore de l'idée du *réveil* comme d'un moment propice pour raccrocher les rêves que l'on a dans la vie 😊.
+En tout cas, si une chose reste certaine dans cette réflexion c'est qu'il faut bien être *réveillé* pour vivre ses rêves.
 
 > Il n'y a qu'au réveil que l'on peut raccrocher le train de nos rêves
 
